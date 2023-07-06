@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "username": "Naresh1234",
+      "Email": "naresh@gmail.com",
+      "password": "Naresh",
+      "id": 1
+    },
+    {
+      "username": "Naresh1234",
+      "Email": "Pathlavathnareshnayak1999@gmail.com",
+      "password": "Naresh",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

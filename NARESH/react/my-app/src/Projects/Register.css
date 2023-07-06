@@ -1,0 +1,58 @@
+
+body{
+    background-color: cornflowerblue;
+    justify-content: center;
+    
+   
+}
+#register{
+    width: 450px;
+height: 410px;
+border: 1px solid rgb(242, 242, 251);
+box-sizing: border-box;
+background-color: rgb(248, 251, 251);
+margin: 100px auto;
+border-radius: 20px;
+position: relative;
+background-color: rgb(223, 231, 216);
+box-shadow: rgb(8, 8, 7);
+
+
+}
+#reg{
+    background-color: rgb(215, 225, 232);
+}
+.ram{
+   position: relative;
+   top: 50px;
+   justify-content: center;
+   text-align: center;
+   padding: 10px;
+   background-color: rgb(219, 225, 225);
+   font-size: 15px;
+   border-radius: 5px;
+}
+.mass{
+    padding: 5px;
+    margin-left: 32px;
+}
+.maha{
+    padding: 10px;
+    margin-left: 58px;
+}
+.raj{
+    padding: 10px;
+    margin-left: 48px;
+}
+.ravi{
+    padding: 10px;
+    margin-right: 25px;
+    
+    
+}
+.reg{
+    padding: 30px;
+    background-color: rgb(228, 221, 212);
+    border-radius: 5px;
+    font-size: 25px;
+}
