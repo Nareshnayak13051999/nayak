@@ -51,13 +51,13 @@ let Navbar1=()=>{
       <Routes>
      <Route>
      <Route path="/" element={<App />}/>
-        <Route path="/Register" element={<Register/>} />
+        {/* <Route path="/Register" element={<Register/>} /> */}
 
         {/* <Route path="/Login" element={<Login/>} /> */}
         <Route path="/Resume" element={<Resume/>} />
-        <Route path="/Todo" element={<Todo/>} />
+        {/* <Route path="/Todo" element={<Todo/>} />
         <Route path="/Weather" element={<Weather/>} />
-        <Route path="/Landingpage" element={<Landing/>} />
+        <Route path="/Landingpage" element={<Landing/>} /> */}
      </Route>
       </Routes>
     </BrowserRouter>
